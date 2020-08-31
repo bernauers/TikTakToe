@@ -10,3 +10,8 @@ The TikTacToe game works, with two humans playing. The game can be improved by a
 To run on windows use CMD. 
 Navigate to the folder via the command 'cd $folder' 
 To run use command 'python $filename'
+
+# File Execution on Linux
+To run on linux via terminal. 
+Navigate to the folder via the command $cd. 
+To run the program use the command $python3 filename.py
