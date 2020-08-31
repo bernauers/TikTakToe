@@ -6,7 +6,7 @@ This is a Milestone project from the Udemy Course: https://www.udemy.com/course/
 
 The TikTacToe game works, with two humans playing. The game can be improved by allowing the player input "name" to be used instead of saying it is 'X' turn. This is something that I will work to include in the future. 
 
-# Windows Execution via CMD
+# File Execution on Windows
 To run on windows use CMD. 
 Navigate to the folder via the command 'cd $folder' 
 To run use command 'python $filename'
