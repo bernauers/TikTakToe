@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#Author: Stephen Bernauer 
-#Date: 8/5/20
 #interactive game of tiktactoe (2 human players) 
 
 
